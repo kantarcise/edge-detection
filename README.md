@@ -1,2 +1,2 @@
 # edge-detection
-A semester project for general edge detection algorithm implementations.
+A semester project for general edge detection algorithm implementations ☺️
