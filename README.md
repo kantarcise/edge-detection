@@ -6,7 +6,7 @@ Here are some demos. Original Image, Canny and Sobel, respectively.
 <p align="center">
   <img src="img/1crop.jpg">
   <img src="img/1cropcanny.jpg">
-  <img src="img/1-sobel-crop.jpg">
+  <img src="img/1cropsobell.jpg">
 </p>
 
 ## How To Use
